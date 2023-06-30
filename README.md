@@ -9,4 +9,4 @@ for loading the dataset use give path to the train dataset folder.
 # For testing
 Load the the csv file which contains the image pairs
 then give path to the val image folder, and load the trained model,
-then give model , csv file in form of pandas dataframe and path to folder containing the images and runthe prediction function.
+then give model , csv file in form of pandas dataframe and path to folder containing the images and run the prediction function.
